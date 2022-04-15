@@ -1,2 +1,5 @@
 node_modules
 notes-api-webserver.pem 
+
+
+# Link EC2 : ssh -i "notes-api-webserver.pem" ubuntu@ec2-54-255-137-210.ap-southeast-1.compute.amazonaws.com
